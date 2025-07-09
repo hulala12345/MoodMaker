@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1 {
+    text-align: center;
+}
+form {
+    margin-bottom: 20px;
+}
+input, select, button {
+    padding: 10px;
+    margin: 5px 0;
+    width: 100%;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    padding: 5px 0;
+    border-bottom: 1px solid #ddd;
+}
+@media (min-width: 600px) {
+    .flex {
+        display: flex;
+    }
+    .flex > div {
+        flex: 1;
+        margin: 5px;
+    }
+}

@@ -1,0 +1,11 @@
+<h2>Playlist for mood: {mood}</h2>
+<ul>
+{songs}
+</ul>
+<form method="POST" action="/save">
+    <input type="hidden" name="mood" value="{mood}">
+    <input type="text" name="name" placeholder="Playlist name" required>
+    <input type="hidden" name="song_ids" value="{song_ids}">
+    <button type="submit">Save Playlist</button>
+</form>
+<p><a href="/">Back</a></p>
