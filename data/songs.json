@@ -1,0 +1,12 @@
+[
+  {"id": 1, "title": "Happy Day", "artist": "Sunshine Band", "genre": "Pop", "tempo": 125, "moods": ["happy", "energetic"]},
+  {"id": 2, "title": "Rainy Nights", "artist": "Blue Waves", "genre": "Blues", "tempo": 70, "moods": ["sad", "calm"]},
+  {"id": 3, "title": "Pump It Up", "artist": "DJ Energy", "genre": "Electronic", "tempo": 140, "moods": ["energetic"]},
+  {"id": 4, "title": "Gentle Breeze", "artist": "Acoustic Soul", "genre": "Folk", "tempo": 85, "moods": ["calm", "romantic"]},
+  {"id": 5, "title": "Heartbreak Hotel", "artist": "Soulful Singers", "genre": "R&B", "tempo": 90, "moods": ["sad"]},
+  {"id": 6, "title": "Love and Light", "artist": "Harmony Trio", "genre": "Pop", "tempo": 110, "moods": ["happy", "romantic"]},
+  {"id": 7, "title": "Thunder Beats", "artist": "Rock Heroes", "genre": "Rock", "tempo": 150, "moods": ["angry", "energetic"]},
+  {"id": 8, "title": "Chill Vibes", "artist": "Lo-Fi Masters", "genre": "Lo-Fi", "tempo": 60, "moods": ["calm"]},
+  {"id": 9, "title": "Smooth Groove", "artist": "Jazz Ensemble", "genre": "Jazz", "tempo": 100, "moods": ["romantic", "calm"]},
+  {"id": 10, "title": "Rage On", "artist": "Metal Fury", "genre": "Metal", "tempo": 160, "moods": ["angry"]}
+]
